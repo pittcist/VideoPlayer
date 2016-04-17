@@ -6,3 +6,11 @@
 /Users/kwang/Box Sync/Spring 2016/CIST 0150/Chapter 14/Video/VideoPlayer/VideoPlayer/obj/x86/Debug/VideoPlayer.exe
 /Users/kwang/Box Sync/Spring 2016/CIST 0150/Chapter 14/Video/VideoPlayer/VideoPlayer/obj/x86/Debug/VideoPlayer.exe.mdb
 /Users/kwang/Box Sync/Spring 2016/CIST 0150/Chapter 14/Video/VideoPlayer/VideoPlayer/bin/Debug/MyVideoClass.dll
+/Users/kwang/git/VideoPlayer/VideoPlayer/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/kwang/git/VideoPlayer/VideoPlayer/obj/x86/Debug/VideoPlayer.Form1.resources
+/Users/kwang/git/VideoPlayer/VideoPlayer/obj/x86/Debug/VideoPlayer.Properties.Resources.resources
+/Users/kwang/git/VideoPlayer/VideoPlayer/bin/Debug/VideoPlayer.exe.mdb
+/Users/kwang/git/VideoPlayer/VideoPlayer/bin/Debug/VideoPlayer.exe
+/Users/kwang/git/VideoPlayer/VideoPlayer/obj/x86/Debug/VideoPlayer.exe
+/Users/kwang/git/VideoPlayer/VideoPlayer/obj/x86/Debug/VideoPlayer.exe.mdb
+/Users/kwang/git/VideoPlayer/VideoPlayer/bin/Debug/MyVideoClass.dll

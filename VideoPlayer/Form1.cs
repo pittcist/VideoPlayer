@@ -9,6 +9,8 @@ using System.Windows.Forms;
 using MyVideo;
 using System.IO;
 
+// Modified April 16, 2016
+
 namespace VideoPlayer
 {
     public partial class Form1 : Form
