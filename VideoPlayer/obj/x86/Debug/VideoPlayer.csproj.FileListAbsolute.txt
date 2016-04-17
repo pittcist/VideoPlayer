@@ -1,0 +1,49 @@
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\MyVideoClass.dll
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Form1.resources
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.exe
+C:\Users\kwang\Dropbox\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.pdb
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.exe
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.pdb
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\MyVideoClass.dll
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Form1.resources
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Properties.Resources.resources
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Fall 2012\CIST 0150 SEC 01\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.exe
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.pdb
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\MyVideoClass.dll
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Form1.resources
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\kwang\Dropbox\Fall 2013\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.csproj.GenerateResource.Cache
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.exe
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.pdb
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.exe
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.pdb
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\MyVideoClass.dll
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Form1.resources
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\ykenw\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.csproj.GenerateResource.Cache
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\bin\Debug\MyVideoClass.dll
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Form1.resources
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.Properties.Resources.resources
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\Video\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.csproj.GenerateResource.Cache
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\VideoPlayer\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.exe
+Z:\kwang\Box Sync\Spring 2016\CIST 0150\Chapter 14\VideoPlayer\VideoPlayer\VideoPlayer\obj\x86\Debug\VideoPlayer.pdb
